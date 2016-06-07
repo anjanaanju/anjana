@@ -4,15 +4,15 @@ int n;
 scanf("%d",&n);
 if(n==0)
 {
-    printf("\nThe number is zero");
+    printf("The number is zero\n");
 }
 else if(n>0)
 {
-  printf("\nThe number is positive");
+  printf("The number is positive\n");
 }
 else
 {
-  printf("\nThe number is negative");
+  printf("The number is negative\n");
 }
 return 0;
 }
